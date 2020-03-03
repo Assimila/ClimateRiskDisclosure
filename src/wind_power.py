@@ -8,7 +8,7 @@ import numpy.ma as ma
 import datetime
 
 variable = 'u_component_of_wind_10m'
-fname = f'../ERA5/{variable}/{variable}.tif'
+fname = f'../ERA5/Europe/{variable}/{variable}.tif'
 d = gdal.Open(fname)
 u = d.ReadAsArray()
 u = ma.masked_invalid(u)
@@ -16,7 +16,7 @@ u = np.where(u > 11.4, 1.0, u)
 u = np.where(u < -11.4, -1.0, u)
 
 variable = 'v_component_of_wind_10m'
-fname = f'../ERA5/{variable}/{variable}.tif'
+fname = f'../ERA5/Europe/{variable}/{variable}.tif'
 d = gdal.Open(fname)
 v = d.ReadAsArray()
 v = ma.masked_invalid(v)
@@ -61,7 +61,7 @@ gt = d.GetGeoTransform()
 # Get GDAL datatype from NumPy datatype
 dtype = gdal_array.NumericTypeCodeToGDALTypeCode(wp.dtype)
 # Create dataset
-datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/wind_power'
+datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/Europe/wind_power'
 fname = os.path.join(datadir, f'wind_power.tif')
 dst_ds = driver.Create(fname, cols, rows, bands, dtype, driver_options)
 # Set cartographic projection
@@ -73,7 +73,7 @@ startyear = 1979
 startmonth = 1
 
 endyear = 2019
-endmonth = 8
+endmonth = 12
 
 dates = [datetime.date(m//12, m%12+1, 1) for m in range(startyear*12+startmonth-1, endyear*12+endmonth)]
 
@@ -98,7 +98,7 @@ rows, cols = wp_mean.shape
 # Get GDAL datatype from NumPy datatype
 dtype = gdal_array.NumericTypeCodeToGDALTypeCode(wp.dtype)
 # Create dataset
-datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/wind_power'
+datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/Europe/wind_power'
 fname = os.path.join(datadir, f'mean_wind_power.tif')
 dst_ds = driver.Create(fname, cols, rows, 1, dtype, driver_options)
 # Set cartographic projection
@@ -112,7 +112,7 @@ rows, cols = wp_std.shape
 # Get GDAL datatype from NumPy datatype
 dtype = gdal_array.NumericTypeCodeToGDALTypeCode(wp_std.dtype)
 # Create dataset
-datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/wind_power'
+datadir = '/home/glopez/Projects/ClimateRiskDisclosure/ERA5/Europe/wind_power'
 fname = os.path.join(datadir, f'std_wind_power.tif')
 dst_ds = driver.Create(fname, cols, rows, 1, dtype, driver_options)
 # Set cartographic projection
@@ -121,6 +121,3 @@ dst_ds.SetGeoTransform(gt)
 
 dst_ds.GetRasterBand(1).WriteArray(wp_std)
 dst_ds = None
-
-
-
