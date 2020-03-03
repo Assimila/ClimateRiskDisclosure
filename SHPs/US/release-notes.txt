@@ -1,0 +1,53 @@
+Countries 2016
+--------------
+
+Complete metadata in metadata.pdf file.
+Geometries of countries 2016 and NUTS 2016 datasets match and can be used in the same map without having slivers on polygon boundaries.
+
+--------------
+File naming
+
+pattern: theme_spatilatype_resolution_year_projection_subset.format
+example: CNTR_BN_01M_2016_3035_COASTL.geojson
+
+theme:
+4-character code of theme (CNTR - countries),
+
+spatialtype: BN/RG/LB
+* BN: boundaries (multilines)
+* RG: regions (multipolygons)
+* LB: labels (points)
+
+resolution: 60M/20M/10M/03M/01M; map scale the data is optimized (generalized) for.
+
+year: the year of release (2016/2013/2010/2006/2001).
+
+projection: 4-digit EPSG code, see http://spatialreference.org/ref/epsg/
+* EPSG:4326 (WGS84, coordinates in decimal degrees),
+* EPSG:3035 (ETRS 1989 in Lambert Azimutal projection with centre in E52N10, coordinates in meters),
+* EPSG:3857 (WGS84 Web Mercator Auxiliary Sphere, coordinates in meters)
+
+subset: one of NUTS levels
+* COASTL: coastal lines
+* INLAND: inland lines
+Coastal and inland lines are complementary - both together form full set of country boundaries. 
+File with no subset code consists of both coastal and inland boundaries.
+
+format:
+* .gdb - file geodatabase (ESRI) http://desktop.arcgis.com/en/arcmap/10.3/manage-data/administer-file-gdbs/file-geodatabases.htm
+* .shp.zip - zipped shapefile (ESRI) http://downloads.esri.com/support/whitepapers/mo_/shapefile.pdf
+* .geojson - http://geojson.org
+* .json - topoJSON https://github.com/topojson/topojson-specification
+* .pbf - geobuf - geojson compressed into protocol buffers, see https://github.com/mapbox/geobuf
+* .svg.zip - zipped SVG (scalable vector graphics) https://www.w3.org/TR/SVG2/
+
+---------
+Release notes:
+2018-01-08 More strict quality control (null geometries, comparison of number of records and area before and after conversions). Known issues documented in https://webgate.ec.europa.eu/CITnet/jira/browse/GISCO-1604
+2018-02-06 Major release of API V2. 1) single countries are available as separate geojson files, 2) map viewer is enabled for geojson, 3) downloadable zip packages now consist of gdb/shp/geojson/topojson/csv (attributes) as well as metadata, 4) zip packages are integrated into API.2018-02-26 1) EPS files added to V2 package. 2) EPS and CSV files added to V1 package. 3 Projection attribute included in geojson files.
+2018-02-26 1) EPS files added to V2 package. 2) EPS and CSV files added to V1 package. 3 Projection attribute included in geojson files.
+2018-06-21 CNTR 2016 released. NUTS 2016: maching tables regions-boundaries added.
+2018-09-17 Formats: SVG replaces EPS as a vector format for use in web and design applications. Projections: 4258 removed, 4326 recommended instead. Fixes: NUTS 2013 changes in Norway: NO60 has been split into NO061 and NO062; CNTR 2016 attributes OTHR_CNTR_FLAG, COAS_FLAG recalculated. COMM_2016 added to release package.
+2019-03-08 1) Country names changed: Czech Republic replaced by Czechia,FYROM replaced by North Macedonia. 2) Capital City changes: Western Sahara, capital: Al aaiun replaced by Laayoune, Yemen, capital: San'a replaced by Sana'a. 3) Geometry edits of the border between Russia and Azerbaijan at the Caspian Sea, border shifts approximately 10km south at the Coast.
+2019-03-24 Fix: country names FYROM and Czech Republic restored in 2013 dataset.
+2019-04-04 Fix: TopoJS and SVG files restored for years 2010, 2006, 2003, 2001.

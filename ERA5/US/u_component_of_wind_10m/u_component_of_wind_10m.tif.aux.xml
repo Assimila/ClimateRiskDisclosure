@@ -1,0 +1,2492 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-6.879823779106141</HistMin>
+        <HistMax>5.580169772148133</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|1|0|0|0|0|0|0|2|0|1|0|0|1|0|0|0|0|1|0|0|0|0|1|1|1|0|2|1|0|0|1|0|0|0|0|1|1|0|0|2|0|1|1|2|1|1|0|0|1|1|0|2|0|0|0|1|2|3|1|3|0|2|2|4|3|4|1|0|1|1|3|4|2|0|4|1|1|2|3|3|5|2|3|4|1|3|3|5|1|6|1|5|2|6|4|3|3|0|2|4|3|1|2|1|3|5|2|2|2|3|1|2|6|4|1|7|4|3|2|3|4|3|2|2|1|3|4|4|5|2|3|5|6|0|5|3|2|6|3|3|9|3|3|4|5|8|7|6|7|2|3|3|8|5|2|5|6|6|4|5|1|4|5|9|4|5|4|4|7|1|2|6|3|2|2|8|4|1|6|3|1|2|11|7|7|8|9|7|5|3|4|7|9|5|3|5|2|5|9|3|5|7|8|7|3|2|4|10|9|9|6|5|3|6|6|7|6|4|4|4|5|5|2|5|10|3|8|10|3|6|9|9|5|9|6|9|5|7|10|7|6|4|11|11|6|8|9|7|16|5|8|10|6|13|7|8|6|12|9|9|10|9|10|6|7|4|9|9|7|11|14|11|9|11|11|12|16|14|10|12|10|10|13|12|9|17|14|11|11|11|17|11|8|13|8|11|17|11|10|12|9|11|16|14|14|13|13|13|16|17|11|12|10|13|21|14|19|12|11|10|17|14|12|13|25|16|17|14|13|16|16|13|20|21|16|17|18|15|25|21|32|23|17|29|23|19|25|22|27|16|35|21|21|17|23|23|24|31|15|23|13|16|21|19|15|18|19|28|28|17|20|19|18|23|26|25|35|17|32|19|28|16|28|24|26|29|25|24|24|33|38|25|24|25|22|19|34|18|23|17|26|20|23|33|28|22|32|27|36|32|22|25|34|26|27|22|22|23|28|23|30|21|28|30|31|32|31|27|22|38|31|23|21|43|40|26|26|34|36|43|37|38|32|37|44|40|28|32|44|40|31|32|36|38|34|44|49|41|36|35|47|36|39|39|41|44|49|47|38|50|47|58|55|46|52|46|52|47|55|45|47|50|52|56|57|49|51|52|57|48|58|50|45|54|48|56|57|40|48|50|62|38|61|68|70|64|66|75|80|66|73|65|71|70|60|56|56|48|59|63|56|73|72|60|70|50|73|66|51|51|74|57|58|66|89|64|67|58|65|58|53|60|69|43|54|61|56|57|42|53|57|52|75|53|53|67|62|74|60|64|46|61|51|55|58|62|51|49|60|50|65|47|60|70|64|65|62|56|45|63|47|78|59|56|50|65|54|58|71|58|55|53|65|67|51|68|57|59|68|53|58|68|67|58|69|63|73|62|58|59|64|48|59|71|63|70|61|63|57|54|59|66|45|58|58|57|47|54|59|57|50|55|50|43|51|61|49|39|49|60|48|39|49|41|46|33|44|37|33|34|41|29|39|37|38|25|33|31|28|30|34|37|27|29|24|25|20|22|30|33|24|24|32|27|23|18|24|29|18|18|23|18|15|21|17|18|18|24|25|19|18|26|19|18|20|29|16|19|21|12|22|19|21|21|10|23|16|19|14|15|16|14|10|10|13|15|15|12|15|11|13|12|22|13|12|11|17|6|10|7|7|12|10|20|5|12|9|15|6|8|13|12|10|6|11|14|7|5|11|7|12|5|7|13|6|10|3|7|8|7|8|11|9|6|6|10|6|4|9|6|4|4|7|9|5|3|7|8|6|7|6|2|8|5|5|3|3|2|4|3|3|9|4|5|6|2|3|2|1|5|4|3|5|3|1|5|1|7|2|2|6|4|3|2|3|1|2|4|2|2|1|2|2|1|1|2|1|1|4|0|1|3|0|2|1|0|2|1|1|3|2|2|0|1|2|1|1|2|2|1|0|0|4|0|1|1|2|1|3|0|1|0|2|1|0|1|0|1|0|0|0|1|2|0|0|1|0|0|0|1|0|1|0|0|1|2|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|1|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-01-01</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.5739459991455</MDI>
+      <MDI key="STATISTICS_MEAN">0.24948714084358</MDI>
+      <MDI key="STATISTICS_MINIMUM">-6.8736000061035</MDI>
+      <MDI key="STATISTICS_STDDEV">1.7112157192808</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Histograms>
+      <HistItem>
+        <HistMin>-7.52135289645195</HistMin>
+        <HistMax>6.905242571592331</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|1|0|3|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|0|0|1|0|0|1|1|1|0|1|1|0|0|1|1|0|1|1|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|0|2|0|0|0|0|1|0|0|0|0|0|0|0|1|1|0|2|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1|1|0|1|4|1|1|1|1|1|1|0|0|2|3|5|2|2|1|3|1|2|2|4|2|3|6|0|2|2|3|5|6|1|4|1|3|4|3|1|2|3|3|6|5|3|2|2|4|0|4|1|5|5|1|5|3|2|2|5|3|1|2|5|3|2|2|4|0|5|3|1|3|3|5|2|0|4|4|3|4|1|5|3|4|5|2|2|0|3|3|4|2|4|2|3|1|5|5|4|4|0|5|2|2|0|4|2|3|4|4|3|0|4|3|0|4|2|3|3|5|5|4|5|5|3|1|1|3|6|4|5|3|7|3|4|3|4|0|2|7|4|3|5|8|2|8|6|7|8|9|9|6|10|4|10|7|4|8|12|9|3|13|12|13|7|9|4|6|15|7|12|8|10|12|14|9|14|11|11|11|10|17|14|16|15|11|11|10|9|14|12|7|9|17|16|12|16|13|18|12|15|9|15|17|22|10|10|22|20|15|14|8|15|18|15|15|12|21|17|19|23|22|26|19|17|26|17|25|23|21|19|21|20|16|27|28|27|37|22|23|21|26|29|23|32|19|23|24|20|31|25|29|36|27|29|28|27|30|14|27|32|33|22|37|30|23|34|28|27|31|28|34|22|35|32|31|24|37|38|33|35|31|35|24|27|33|32|32|31|36|40|38|49|49|44|46|49|47|52|42|41|55|48|46|52|49|49|71|61|86|62|56|63|60|64|67|83|85|80|104|107|123|113|109|136|135|137|148|146|164|132|164|143|159|165|162|134|157|140|177|151|147|169|142|149|130|150|121|143|152|150|126|134|125|120|106|124|130|113|114|105|97|121|122|121|117|96|113|96|91|109|102|121|91|104|88|96|86|91|94|84|86|111|88|88|72|78|96|94|87|107|77|60|62|66|73|60|56|51|63|56|59|87|67|63|65|66|49|50|47|44|57|44|43|48|46|43|46|54|55|50|47|47|56|58|55|51|48|64|51|43|52|44|30|45|46|35|45|33|41|25|35|31|35|34|42|41|25|45|48|25|25|33|35|39|37|40|31|21|27|26|24|26|20|22|26|24|32|32|23|15|19|26|16|19|21|20|23|28|16|24|21|20|14|16|13|23|12|19|16|15|19|11|18|18|6|13|13|11|13|19|14|15|15|16|15|16|11|13|12|11|8|13|11|8|7|16|9|12|16|15|15|10|9|16|10|9|6|11|11|6|7|8|9|10|6|3|9|8|7|7|6|6|5|3|1|8|1|6|6|8|1|5|5|1|3|2|2|4|2|6|1|7|1|1|3|1|0|2|5|3|3|1|2|1|1|4|5|1|3|1|2|2|1|2|3|1|1|0|2|1|1|1|0|0|2|2|1|4|3|0|1|3|0|2|3|3|0|2|1|1|1|1|2|2|2|1|0|0|1|1|0|3|1|0|2|0|0|2|2|2|1|1|2|2|4|2|3|1|1|0|0|0|0|1|0|1|3|0|2|0|1|2|1|0|2|0|2|2|0|0|1|0|1|1|0|1|2|1|0|0|1|1|1|0|3|0|0|1|1|2|1|0|0|0|2|0|0|2|0|0|2|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-02-01</MDI>
+      <MDI key="STATISTICS_MAXIMUM">6.89803647995</MDI>
+      <MDI key="STATISTICS_MEAN">0.12933239569803</MDI>
+      <MDI key="STATISTICS_MINIMUM">-7.5141468048096</MDI>
+      <MDI key="STATISTICS_STDDEV">1.2930716231278</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Histograms>
+      <HistItem>
+        <HistMin>-8.097552207112312</HistMin>
+        <HistMax>3.947758820652962</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|2|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|2|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|1|0|0|2|0|0|0|1|0|0|0|0|0|0|1|0|1|0|0|2|0|1|0|0|0|1|1|0|0|0|1|0|0|0|0|3|0|1|0|2|0|1|0|0|1|2|0|0|1|0|0|1|0|0|1|1|2|0|0|1|0|0|0|0|0|1|0|0|0|1|2|1|0|0|1|0|0|0|0|1|1|1|1|2|0|1|1|0|0|2|1|1|1|1|0|1|3|0|1|0|0|0|0|2|1|0|1|1|0|0|0|1|1|0|0|0|0|0|0|1|2|1|0|1|0|1|0|0|1|1|0|1|1|0|2|0|2|0|0|0|1|2|1|2|1|0|0|0|0|0|2|0|0|1|1|0|0|1|0|0|1|2|2|0|0|1|0|1|1|0|1|1|0|0|1|0|2|1|1|0|1|0|0|1|1|0|0|1|2|1|3|1|2|2|1|1|0|1|2|1|0|0|1|2|0|2|1|2|2|4|1|2|0|4|2|3|1|1|3|0|2|4|2|1|5|0|2|0|1|1|3|1|1|4|3|4|3|1|2|0|2|1|1|3|1|3|1|3|4|3|5|1|5|3|2|2|2|3|1|1|1|8|2|1|3|5|2|8|2|4|3|7|1|4|4|3|7|8|4|7|5|5|8|6|7|9|13|6|11|9|12|5|8|11|5|8|10|5|9|8|9|5|11|8|4|12|9|4|7|5|3|4|8|7|8|7|8|4|8|10|5|4|6|7|7|8|6|8|7|4|5|7|4|10|4|3|10|7|5|5|7|14|12|7|7|7|7|3|6|8|7|7|8|8|8|12|4|10|14|7|12|7|7|10|10|8|8|12|7|11|13|12|9|9|11|11|7|12|11|7|11|12|12|12|13|10|14|11|19|5|9|16|13|11|11|11|18|19|14|9|18|16|18|11|15|16|17|18|15|12|14|13|8|16|16|14|14|17|14|15|12|18|18|19|11|16|17|15|16|16|15|12|12|22|21|15|13|23|19|16|10|20|15|19|17|14|17|21|18|26|20|25|19|24|26|23|20|18|25|12|14|22|19|26|23|23|18|21|24|18|18|29|25|28|24|18|33|27|22|21|27|26|18|22|22|16|25|19|23|24|21|26|27|24|30|28|24|24|31|23|18|23|18|22|37|22|32|29|22|24|31|24|27|19|32|18|22|24|27|26|27|39|22|25|26|34|39|26|21|21|27|22|25|24|16|31|36|26|28|33|30|38|36|33|26|44|26|27|35|43|37|40|34|40|51|36|48|39|47|50|48|43|51|44|35|44|54|50|54|59|50|49|45|48|49|50|51|69|59|57|54|56|65|60|70|77|69|71|60|83|79|60|84|82|87|86|68|86|75|103|86|105|75|109|120|94|120|110|119|89|86|82|89|104|120|107|105|101|112|134|100|126|128|113|120|104|110|111|120|130|104|147|118|142|117|116|97|114|97|99|93|94|100|92|88|81|93|98|85|91|105|103|100|88|95|87|84|100|92|88|83|80|81|80|88|98|95|94|70|67|72|76|75|63|61|66|63|63|57|73|60|61|61|66|62|47|52|55|47|57|53|61|45|61|62|65|42|42|43|38|44|54|37|43|33|40|33|41|29|30|22|31|40|28|39|28|36|35|25|26|32|25|17|32|27|24|22|34|26|18|19|18|19|15|25|15|21|18|20|23|27|13|11|14|11|20|13|17|13|15|10|17|13|10|8|23|13|17|13|12|14|15|14|8|16|11|10|7|8|13|7|13|13|11|5|9|13|9|7|5|8|7|6|4|3|10|8|6|11|5|5|5|5|7|9|4|6|3|4|6|5|10|9|6|4|4|6|11|6|3|2|2|4|4|2|3|3|3|1|1|3|1|3|2|4|2|0|0|2|1|2|1|2|1|5|1|1|0|2|3|1|1|3|1|2|0|2|2|1|1|3|2|0|0|0|1|1|0|0|0|2|0|1|3|0|0|0|0|1|0|0|0|0|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|1|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-03-01</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3.941742181778</MDI>
+      <MDI key="STATISTICS_MEAN">0.051797775194805</MDI>
+      <MDI key="STATISTICS_MINIMUM">-8.0915355682373</MDI>
+      <MDI key="STATISTICS_STDDEV">1.3851285327231</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-04-01</MDI>
+      <MDI key="STATISTICS_MAXIMUM">6.8125371932983</MDI>
+      <MDI key="STATISTICS_MEAN">0.023195049565226</MDI>
+      <MDI key="STATISTICS_MINIMUM">-5.1836967468262</MDI>
+      <MDI key="STATISTICS_STDDEV">1.1405872064034</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1979-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1980-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1981-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1982-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1983-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="69">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="70">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="71">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="72">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1984-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="73">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="74">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="75">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="76">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="77">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="78">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="79">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="80">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="81">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="82">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="83">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="84">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1985-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="85">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="86">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="87">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="88">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="89">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="90">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="91">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="92">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="93">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="94">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="95">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="96">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1986-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="97">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="98">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="99">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="100">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="101">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="102">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="103">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="104">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="105">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="106">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="107">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="108">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1987-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="109">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="110">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="111">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="112">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="113">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="114">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="115">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="116">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="117">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="118">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="119">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="120">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1988-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="121">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="122">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="123">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="124">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="125">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="126">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="127">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="128">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="129">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="130">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="131">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="132">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1989-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="133">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="134">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="135">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="136">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="137">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="138">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="139">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="140">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="141">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="142">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="143">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="144">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1990-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="145">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="146">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="147">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="148">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="149">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="150">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="151">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="152">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="153">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="154">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="155">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="156">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1991-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="157">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="158">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="159">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="160">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="161">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="162">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="163">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="164">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="165">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="166">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="167">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="168">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1992-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="169">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="170">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="171">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="172">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="173">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="174">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="175">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="176">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="177">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="178">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="179">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="180">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1993-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="181">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="182">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="183">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="184">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="185">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="186">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="187">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="188">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="189">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="190">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="191">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="192">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1994-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="193">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="194">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="195">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="196">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="197">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="198">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="199">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="200">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="201">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="202">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="203">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="204">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1995-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="205">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="206">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="207">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="208">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="209">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="210">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="211">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="212">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="213">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="214">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="215">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="216">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1996-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="217">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="218">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="219">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="220">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="221">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="222">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="223">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="224">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="225">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="226">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="227">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="228">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1997-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="229">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="230">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="231">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="232">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="233">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="234">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="235">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="236">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="237">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="238">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="239">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="240">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1998-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="241">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="242">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="243">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="244">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="245">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="246">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="247">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="248">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="249">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="250">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="251">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="252">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">1999-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="253">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="254">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="255">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="256">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="257">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="258">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="259">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="260">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="261">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="262">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="263">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="264">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2000-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="265">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="266">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="267">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="268">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="269">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="270">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="271">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="272">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="273">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="274">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="275">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="276">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2001-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="277">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="278">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="279">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="280">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="281">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="282">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="283">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="284">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="285">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="286">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="287">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="288">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2002-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="289">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="290">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="291">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="292">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="293">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="294">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="295">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="296">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="297">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="298">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="299">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="300">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2003-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="301">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="302">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="303">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="304">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="305">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="306">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="307">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="308">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="309">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="310">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="311">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="312">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2004-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="313">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="314">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="315">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="316">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="317">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="318">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="319">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="320">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="321">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="322">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="323">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="324">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2005-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="325">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="326">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="327">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="328">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="329">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="330">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="331">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="332">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="333">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="334">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="335">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="336">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2006-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="337">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="338">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="339">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="340">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="341">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="342">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="343">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="344">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="345">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="346">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="347">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="348">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2007-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="349">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="350">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="351">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="352">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="353">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="354">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="355">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="356">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="357">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="358">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="359">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="360">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2008-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="361">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="362">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="363">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="364">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="365">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="366">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="367">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-07-01</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.6462187767029</MDI>
+      <MDI key="STATISTICS_MEAN">0.15637013107962</MDI>
+      <MDI key="STATISTICS_MINIMUM">-6.4261856079102</MDI>
+      <MDI key="STATISTICS_STDDEV">1.1549731963296</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="368">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="369">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="370">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="371">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="372">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2009-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="373">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="374">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="375">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="376">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="377">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="378">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="379">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="380">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="381">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="382">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="383">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="384">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2010-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="385">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="386">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="387">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="388">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="389">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="390">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="391">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="392">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="393">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="394">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="395">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="396">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2011-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="397">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="398">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="399">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="400">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="401">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="402">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="403">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="404">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="405">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="406">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="407">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="408">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2012-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="409">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="410">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="411">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="412">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="413">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="414">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="415">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="416">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="417">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="418">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="419">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="420">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2013-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="421">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="422">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="423">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="424">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="425">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="426">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="427">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="428">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="429">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="430">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="431">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="432">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2014-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="433">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="434">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="435">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="436">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="437">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="438">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="439">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="440">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="441">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="442">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="443">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="444">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2015-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="445">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="446">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="447">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="448">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="449">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="450">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="451">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="452">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="453">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="454">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="455">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="456">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2016-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="457">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="458">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="459">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="460">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="461">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="462">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="463">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="464">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="465">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="466">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="467">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="468">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2017-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="469">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="470">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="471">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="472">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="473">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="474">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="475">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="476">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="477">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-09-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="478">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-10-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="479">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-11-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="480">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2018-12-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="481">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-01-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="482">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-02-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="483">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-03-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="484">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-04-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="485">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-05-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="486">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-06-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="487">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-07-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="488">
+    <Metadata>
+      <MDI key="RANGEBEGINNINGDATE">2019-08-01</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
