@@ -82,8 +82,6 @@ dependencies:
   - freexl=1.0.5=h14c3975_0
   - fribidi=1.0.5=h7b6447c_0
   - future=0.17.1=py37_0
-  - gcc_impl_linux-64=7.3.0=habb00fd_2
-  - gcc_linux-64=7.3.0=h553295d_16
   - gdal=2.3.3=py37hbb2a789_0
   - geos=3.7.1=he6710b0_0
   - get_terminal_size=1.0.0=haa9412d_0
