@@ -7,5 +7,6 @@ dependencies:
   - numpy
   - xarray
   - pandas
+  - rasterio
 prefix: /python/anaconda3/envs/crd
 
