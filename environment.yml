@@ -8,7 +8,6 @@ dependencies:
   - xarray
   - pandas
   - rasterio
-  - ipywidgets
   - jupyter_contrib_nbextensions
 prefix: /python/anaconda3/envs/crd
 
