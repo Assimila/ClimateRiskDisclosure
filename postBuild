@@ -1,3 +1,2 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable hide_input
-jupyter nbextension enable init_cell
+jupyter nbextension enable init_cell/main --sys-prefix
+jupyter nbextension enable hide_input/main --sys-prefix
