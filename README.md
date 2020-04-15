@@ -19,3 +19,5 @@ This is a demo of how the use [ERA5](https://www.ecmwf.int/en/forecasts/datasets
     - t2m.ipynb
     - total_precipitation.ipynb
     - wind_power.ipynb
+
+It might take a couple of minutes to launch. Once you opened a Jupyter Notebook you might be asked to trust the Notebook, please click on ```Trust Notebook``` and then ```Trust```.
