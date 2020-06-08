@@ -1,2 +1,3 @@
+git clone https://github.com/Assimila/DQTools.git
 jupyter nbextension enable init_cell/main --sys-prefix
 jupyter nbextension enable hide_input/main --sys-prefix
