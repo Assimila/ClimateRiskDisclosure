@@ -10,7 +10,7 @@ This is a demo of how the use [ERA5](https://www.ecmwf.int/en/forecasts/datasets
 
 #### How to use it.
 
-- Click on [![here](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Assimila/ClimateRiskDisclosure/master?filepath=src) to launch the Binder environment and then select one of the following Jupyter Notebooks:
+- Click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Assimila/ClimateRiskDisclosure.git/main?filepath=src) to launch the Binder environment and then select one of the following Jupyter Notebooks:
   - For multivariate analysis:
     - Assimila_ERA5_anomalies_analysis_Europe.ipynb
     - Assimila_ERA5_MODIS_LAI_anomalies_analysis_Europe.ipynb
