@@ -1,8 +1,0 @@
-numpy
-gdal
-pandas
-xarray
-matplotlib
-rasterio
-jupyter_contrib_nbextensions
-
