@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Assimila/ClimateRiskDisclosure/master?filepath=src)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Assimila/ClimateRiskDisclosure.git/main?filepath=src)
 
 ## Assimila -- Climate Risk Disclosure multivariate analysis demo
 
